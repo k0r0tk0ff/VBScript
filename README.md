@@ -1,2 +1,2 @@
 # VBScript
-Scripts on Visual Basic
+Collection Scripts on Visual Basic (WIN)
